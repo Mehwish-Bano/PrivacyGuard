@@ -46,9 +46,9 @@ pip install requests
 python privacy_check.py
 
 ---
-'''
-## 📸 Sample Output
-'''
+
+*## 📸 Sample Output*
+
 --- PrivacyGuard: Advanced Analyzer ---
 
 [!] Target URL: https://httpbin.org/get
