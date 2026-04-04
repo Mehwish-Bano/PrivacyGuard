@@ -47,7 +47,7 @@ python privacy_check.py
 
 ---
 
-*## 📸 Sample Output*
+## 📸 Sample Output
 
 --- PrivacyGuard: Advanced Analyzer ---
 
